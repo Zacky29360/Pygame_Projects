@@ -136,3 +136,4 @@ while True:
     screen.blit(title_surface, (OFFSET, 10))
     screen.blit(score_surface, (cell_size*number_of_cells + OFFSET, 10))
     pygame.display.update()
+    
